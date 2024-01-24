@@ -4,7 +4,12 @@
 }
 body{
     text-align: center;
-    background-color: #A26769;
+    background: url(img.jpg);
+}
+p{
+   color: rgb(3, 3, 10);
+   font-weight: 800;
+   font-size: 600%;
 }
 .container{
     height: 70vh;
@@ -29,8 +34,8 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0, 0, 0.3);
     font-size: 8vmin;
-    color:#582C4D;
-    background-color: #E0E1DD;
+    color:#315057;
+    background-color: #e9ece5;
 }
 #reset-btn{
     padding:1rem;
@@ -49,7 +54,7 @@ body{
     border: none;
 }
 #msg{
-    color:white;
+    color:rgb(26, 3, 3);
     font-size: 5vmin;
 }
 
